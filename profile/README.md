@@ -1,6 +1,9 @@
 # Welcome to the PROVES Kit Open Source! 
 Ever since our rocky experiences working with closed and proprietary aerospace hardware on BroncoSat-1 (our first satellite), we have become committed to creating an afforable and accessible open architecture for spacecraft. We've started with a 1U CubeSat kit that has now made it to orbit three times! 
 
+![A PROVES Family Photo](https://github.com/proveskit/.github/assets/61564344/f7afea43-7402-45cd-a75e-c9b8a44ee2fb)
+
+
 The first one didn't get deployed due to an issue with our host vehicle, the second did deploy but only made contact for the first ~50 minutes or so of the flight, and the third 10x'd that number to a confirmed uptime of 9.5 hours! That that kind of exponential growth we'rre surely only a few updates away from an extremely low cost design that can go the distance. 
 
 # How to Get One
