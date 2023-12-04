@@ -11,5 +11,7 @@ Our design intention was to create a complete satellite platform with a structur
 
 We're going to be selling the kits as a set of assembled and unassembled 1U's on [our website](https://www.proveskit.space)! 
 
+Also feel free to reach out to Michael Pham at mlpham@cpp.edu if you would like to have a further conversation.
+
 # Check Out Our Partners! 
 We couldn't do this without engagement from our community of university CubeSat developers! Our friends at the Stanford Student Space Initiative have done some amazing work and are some of the most exciting people to work. The folks at the Hawaii Space Flight Lab and the Portland Space Aerospace Society OreSat team also have some awesome open source CubeSat architectures of their own! 
