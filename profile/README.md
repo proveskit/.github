@@ -6,6 +6,11 @@ Ever since our rocky experiences working with closed and proprietary aerospace h
 
 The first one didn't get deployed due to an issue with our host vehicle, the second did deploy but only made contact for the first ~50 minutes or so of the flight, and the third 10x'd that number to a confirmed uptime of 9.5 hours! That that kind of exponential growth we're surely only a few updates away from an extremely low cost design that can go the distance. 
 
+# Looking for Documentation? 
+We have a prototype Read the Docs site with assembly guides and discussion about the design behind the PROVES Kit! 
+
+https://the-proves-kit.readthedocs.io/en/latest/
+
 # How to Get One
 Our design intention was to create a complete satellite platform with a structure, EPS, flight computer, and comms system for less than $1k and we present it here now for the open source community. The practical cost of getting one to space is quite a bit more than $1k (our latest launch got one on orbit for just $5k not including the launch cost!), but that is certainly much more affordable than any commercial platform on the market. We would not recommend you try and build one from scratch unless you have relatively extensive experience with custom PCB and structural manufacturing. 
 
