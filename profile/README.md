@@ -1,5 +1,5 @@
 # Welcome to the PROVES Kit Open Source! 
-Ever since our rocky experiences working with closed and proprietary aerospace hardware on BroncoSat-1 (our first satellite), we have become committed to creating an affordable and accessible open architecture for spacecraft. We've started with a 1U CubeSat kit that has now made it to orbit three times! 
+Ever since our rocky experiences working with closed and proprietary aerospace hardware on BroncoSat-1 (our first satellite), we have become committed to creating an affordable and accessible open architecture for spacecraft. We've started with an educational 1U CubeSat kit that has now found its way to space three times! 
 
 ![A PROVES Family Photo](https://github.com/proveskit/.github/assets/61564344/f7afea43-7402-45cd-a75e-c9b8a44ee2fb)
 
