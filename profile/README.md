@@ -11,6 +11,8 @@ We have a prototype Read the Docs site with assembly guides and discussion about
 
 https://the-proves-kit.readthedocs.io/en/latest/
 
+Note: The open source designs and documentation are provided primarily for educational and academic research use. If you wish to use the hardware for spaceflight there are many more steps that must be undertaken before the kit is ready to fly. Feel free to reach out for us if you would like advising on what it takes! 
+
 # How to Get One
 Our design intention was to create a complete satellite platform with a structure, EPS, flight computer, and comms system for less than $1k and we present it here now for the open source community. The practical cost of getting one to space is quite a bit more than $1k (our latest launch got one on orbit for just $5k not including the launch cost!), but that is certainly much more affordable than any commercial platform on the market. We would not recommend you try and build one from scratch unless you have relatively extensive experience with custom PCB and structural manufacturing. 
 
