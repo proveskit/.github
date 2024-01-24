@@ -9,7 +9,7 @@ The first one didn't get deployed due to an issue with our host vehicle, the sec
 # Looking for Documentation? 
 We have a prototype Read the Docs site with assembly guides and discussion about the design behind the PROVES Kit! 
 
-https://the-proves-kit.readthedocs.io/en/latest/
+[https://the-proves-kit.readthedocs.io/en/latest/](https://docs.proveskit.space/en/latest/)
 
 Note: The open source designs and documentation are provided primarily for educational and academic research use. If you wish to use the hardware for spaceflight there are many more steps that must be undertaken before the kit is ready to fly. Feel free to reach out for us if you would like advising on what it takes! 
 
