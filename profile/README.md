@@ -4,7 +4,7 @@ Ever since our rocky experiences working with closed and proprietary aerospace h
 ![A PROVES Family Photo](https://github.com/proveskit/.github/assets/61564344/f7afea43-7402-45cd-a75e-c9b8a44ee2fb)
 
 
-The first one didn't get deployed due to an issue with our host vehicle, the second did deploy but only made contact for the first ~50 minutes or so of the flight, and the third 10x'd that number to a confirmed uptime of 9.5 hours! That that kind of exponential growth we're surely only a few updates away from an extremely low cost design that can go the distance. 
+The first one didn't get deployed due to an issue with our host vehicle, the second did deploy but only made contact for the first ~50 minutes or so of the flight, and the third 10x'd that number to a confirmed uptime of 9.5 hours! With that kind of exponential growth we're surely only a few updates away from an extremely low cost design that can go the distance. Coming up in 2024 we'll have the launch of the fourth PROVES Kit to orbit and six more are queued up in 2025. 
 
 # Looking for Documentation? 
 We have a prototype Read the Docs site with assembly guides and discussion about the design behind the PROVES Kit! 
