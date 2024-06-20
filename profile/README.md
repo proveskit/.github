@@ -1,5 +1,5 @@
 # Welcome to the PROVES Kit Open Source! 
-Ever since our rocky experiences working with closed and proprietary aerospace hardware on BroncoSat-1 (our first satellite), we have become committed to creating an affordable and accessible open architecture for spacecraft. We've started with an educational 1U CubeSat kit that has now found its way to space three times! 
+Ever since our rocky experiences working with closed and proprietary aerospace hardware on BroncoSat-1 (our first satellite), we have become committed to creating an affordable and accessible open architecture for academic spacecraft. We've started with an educational 1U CubeSat kit that has now found its way to space three times! The PROVES Kit was originally designed entirely by students, for students, by the Bronco Space Group at thr California State Polytechnic University Pomona (Cal Poly Pomona). Today it welcomes users and contributors from anywhere in the space community.
 
 ![A PROVES Family Photo](https://github.com/proveskit/.github/assets/61564344/f7afea43-7402-45cd-a75e-c9b8a44ee2fb)
 
